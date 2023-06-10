@@ -1,6 +1,6 @@
 
 # EOS Network Foundation Grant Proposal
--   **Project Name:** Security Audit Assistance for EVMNS(EOS EVM Name Service)
+-   **Project Name:** Security Audit Assistance for EVMNS
 -   **Team Name:** EVMNS Labs
 -   **EOS Payment Address:** evmnsdomains
 -   **Level:** 3
