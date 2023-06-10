@@ -12,7 +12,7 @@
 # Contact
 - **Contact Name:** Harry Davis
 - **Contact Email:** evmns_manager@outlook.com
-- **Website:** N/A
+- **Website:** https://evmns.space/
 
 # Project Overview
 **EVMNS (EOS EVM Name Service) is a distributed, open and extensible multi-chain DID domain naming system built on EOS EVM,** relying on the high performance, security and reliability of EOS to better and seamlessly connect people, information, assets, dApps, etc. in the WEB3 world.<br/><br/>
